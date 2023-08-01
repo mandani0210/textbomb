@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-import utils
+#
 import os
 import shutil
 import sys
